@@ -1,0 +1,8 @@
+selenium
+webdriver_manager
+pandas
+streamlit
+scikit-learn
+gensim
+plotly
+pickle
