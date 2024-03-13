@@ -6,6 +6,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from gensim.models import Word2Vec
 import time
+import xgboost
 
 with open(r'./df.pkl','rb') as file:
     df = pickle.load(file)
